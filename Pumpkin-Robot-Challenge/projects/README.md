@@ -12,7 +12,7 @@ Source code stays in the creator's repository. Only the project profile and gall
 | Project | Creator | RDK use | Repository | Demo |
 | --- | --- | --- | --- | --- |
 | _No reviewed projects yet_ | — | — | — | — |
-| [Cyclops Pumpkin Robot](CodersCafeTech-Project-CyclopsPumpkin.md) | CodersCafeTech | BPU vision + SPI display/LEDs + GPIO relay | [Repository](https://github.com/CodersCafeTech/Cyclops-Pumpkin) | Demo coming soon |
+| [Cyclops Pumpkin Robot](CodersCafeTech-Project-CyclopsPumpkin.md) | CodersCafeTech | BPU vision + SPI display/LEDs + GPIO relay | [Repository](https://github.com/CodersCafeTech/Cyclops-Pumpkin) | [Demo](https://youtube.com/shorts/P1_9KhJj4cU) |
 
 ## Submit a project
 
